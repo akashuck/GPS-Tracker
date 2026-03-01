@@ -1,32 +1,36 @@
-Ax Maps
+# Tectus AI Personal Neon Chatbot
 
-Ax Maps is a real-time GPS navigation prototype built to understand how modern map systems work.
+Welcome to **Tectus AI**, my personal AI chatbot built to experiment, learn, and showcase real AI interaction in a sleek neon-style interface.
 
-What it does
-• Live user location tracking
-• Location search using 
+## 🔹 Live Demo
+Check it out here: [Tectus AI Personal Chatbot](https://akashuck.github.io/Tectus.ai-personalAiChatbot/)
 
-OpenStreetMap
-• Road-based route drawing
-• Follow mode with dynamic route 
+## 🔹 Features
+• Real-time AI chat experience  
+• Neon-style user interface for a futuristic look  
+• Personalizable conversation (experiment with your inputs)  
+• Fully web-based and lightweight  
 
-updates
-• Straight-line distance calculation
+## 🔹 Tech Stack
+• **HTML / CSS / JavaScript** for frontend  
+• **GitHub Pages** for deployment  
+• **Nvidia's Ai ** (or custom backend logic) for AI responses  
 
-Tech Used
-• Leaflet
-• OpenStreetMap
-• OSRM
-• HTML, CSS, JavaScript
+## 🔹 How to Use
+1. Open the live demo link.
+2. Replace the key with your open router api key in settings icon. 
+3. Type your message in the input box.  
+4. Press **Enter** or click the send button.
+5. Chat with your personal AI instantly.  
 
-Why I built this
-I built this project to understand how map tiles load, how routing engines work, and how real-time tracking systems are structured. The focus was on system thinking, API handling, and performance control rather than just UI design.
+## 🔹 Future Updates
+• Add conversation history and memory  
+• Improve UI responsiveness for mobile  
+• Add voice interaction and other AI integrations  
 
-Notes
-This project uses public routing and tile services for demonstration purposes.
+## 🔹 Feedback
+I’m building this project to explore AI interfaces and push my personal learning. Any feedback or suggestions are welcome.  
 
-Future Improvements
-• ETA calculation
-• Multiple map styles
-• Route caching
-• Backend integration
+
+
+Built with ❤️ by Akash – experimenting, learning, and building real AI projects.
